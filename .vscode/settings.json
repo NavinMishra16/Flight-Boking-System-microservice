@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "PostgreSQL",
+            "database": "My-Flight-app-DB",
+            "username": "postgres",
+            "password": "admin",
+            "name": "My-Local-DB"
+        }
+    ]
+}
